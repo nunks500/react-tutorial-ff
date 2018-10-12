@@ -1,0 +1,34 @@
+body{
+    overflow:hidden
+}
+#but{
+    float: right;
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 20px;
+    cursor: pointer;
+}
+img{
+    height: 125%;
+    width: 75%;
+    margin-left:50px;
+}
+.answer {
+    background: rgb(175, 210, 231);
+    padding: 10px 16px;
+    width:50%;
+    margin: 10px;
+}
+
+.answer:hover {
+    color:white;
+    font-size:24px;
+    background:rgb(31, 138, 204);
+    
+}
