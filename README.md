@@ -1,4 +1,4 @@
-REACT GAME
+######REACT GAME
 
 Game with pictures of several players. User must guess the name of said player!
 
